@@ -1,2 +1,2 @@
 # network-traffic
-cyber drill tool used to monitor traffic
+cyber drill tool used for monitoring traffic
